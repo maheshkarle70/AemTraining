@@ -1,0 +1,2 @@
+# AemTraining
+Sample AEM project
